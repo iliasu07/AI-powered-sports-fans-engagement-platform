@@ -1,2 +1,2 @@
 # AI-powered-sports-fans-engagement-platform
-Designing and building a cloud-native fan engagement platform using AWS microservices, event-driven architecture, and AI-driven personalization (e.g., Lambda, DynamoDB, SQS, API Gateway, SageMaker).
+An AI-powered fan engagement platform that delivers personalized experiences to sports fans using real-time events and machine learning insights. Built using AWS services including Lambda, API Gateway, DynamoDB, SQS, and SageMaker. Designed around microservices and event-driven principles to ensure scalability, fault-tolerance, and seamless user interaction. This project showcases my ability to design and implement production-grade cloud architectures with a focus on user experience, automation, and modularity.
